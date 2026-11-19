@@ -1,6 +1,6 @@
 # HaloScale
 
-Resolution independent pickup halos for Manhunt (PC).
+Resolution independent pickup halos for Manhunt (PC, Steam).
 
 ## The problem
 
