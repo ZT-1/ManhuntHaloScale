@@ -134,3 +134,7 @@ This repo is source only, with no prebuilt binary. Build it first (see Building)
 
 It patches the game in memory only. `manhunt.exe` is never modified. To uninstall,
 delete the two files.
+
+
+## Thanks
+Thanks to Fire_Head, ermaccer, and aap for MHP.
