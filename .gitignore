@@ -1,0 +1,13 @@
+bin/*
+!bin/HaloScale.ini
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+
+# local only: previous history, and the test level (contains game files)
+.git-archive/
+.gitattributes
+halos test case/
